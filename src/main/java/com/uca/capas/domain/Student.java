@@ -7,6 +7,11 @@ public class Student {
 	private String fEntrada;
 	private String carrera;
 	private Boolean estado;
+	
+	
+
+	public Student() {
+	}
 
 	public Student(String nombre, String apellido, String fEntrada, String carrera, Boolean estado) {
 		super();
